@@ -16,10 +16,6 @@ Sistema desenvolvido com PHP e MySQL com funcionalidades completas de CRUD.
 - HTML
 - CSS
 
-## 📸 Preview
-
-![Preview do sistema](![preview](https://github.com/user-attachments/assets/ce4b5386-1182-4fcd-8f4c-436740b74ba4))
-
 ## ▶️ Como executar
 
 1. Instalar XAMPP
